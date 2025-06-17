@@ -1,0 +1,2 @@
+# ClearData
+Data for RustClear
