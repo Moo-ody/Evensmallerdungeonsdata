@@ -113,6 +113,17 @@ register("tick", () => {
     }
 })
 
+register("worldUnload", () => {
+    const curr = get_curr_room()
+    if (curr == null) {
+        return
+    }
+
+    for (let i = 0; i < room_change_funcs.length; i++) {
+        room_change_funcs[i](null, curr)
+    }
+})
+
 // [dx, dz, width_x, length_z] from the corner (0, 0) of the room, at y=69
 const door_info = {
     "1x1": [
