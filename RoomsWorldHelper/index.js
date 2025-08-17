@@ -1,6 +1,7 @@
 /// <reference types="../CTAutocomplete" />
 
 import "./mechanics/crushers"
+import "./mechanics/door_exporter"
 
 import { renderFilledBox, renderOutlinedBox } from "./utils/render"
 import { export_room, get_curr_room, get_door_locations, on_room_change, room_info } from "./utils/utils"
@@ -64,8 +65,10 @@ const overlay = register("renderOverlay", () => {
         const dx = x - curr_room.x
         const dz = z - curr_room.z
 
-        lines.push(`dx: ${dx}`)
-        lines.push(`dz: ${dz}`)
+        lines.push(`Looking At:`)
+        lines.push(`x: ${dx}`)
+        lines.push(`y: ${la.getY()}`)
+        lines.push(`z: ${dz}`)
 
     }
 
