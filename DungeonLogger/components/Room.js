@@ -283,4 +283,79 @@ export default class Room {
             roomCoord[2]
         ]
     }
+
+    // NEW: Top-left origin coordinate system (parallel to existing system)
+    getTopLeftOrigin() {
+        return [this.x, this.z + this.length] // Top-left corner
+    }
+
+    // Convert world coordinates to room-relative using top-left origin
+    getTopLeftRelativeCoords(worldX, worldZ) {
+        const [topLeftX, topLeftZ] = this.getTopLeftOrigin()
+        return {
+            x: worldX - topLeftX,
+            z: topLeftZ - worldZ  // Note the flip for Z-axis
+        }
+    }
+
+    // Convert room-relative coordinates (top-left origin) to world coordinates
+    getTopLeftWorldPos(relativeX, relativeZ) {
+        const [topLeftX, topLeftZ] = this.getTopLeftOrigin()
+        return {
+            x: topLeftX + relativeX,
+            z: topLeftZ - relativeZ  // Note the flip for Z-axis
+        }
+    }
+
+    // Check if coordinates are within room bounds using top-left origin
+    isInTopLeftRoomBounds(x0, z0) {
+        const [topLeftX, topLeftZ] = this.getTopLeftOrigin()
+        return x0 >= topLeftX && 
+               x0 <= topLeftX + this.width && 
+               z0 <= topLeftZ && 
+               z0 >= topLeftZ - this.length
+    }
+
+    // Get door positions using top-left origin system
+    getTopLeftDoorPositions() {
+        const door_info = {
+            "1x1": [
+                [15, 31, 5, 7],    // bottom door (was 15, -1)
+                [31, 15, 7, 5],    // right door (stays same)
+                [15, -1, 5, 7],    // top door (was 15, 31)
+                [-1, 15, 7, 5],    // left door (stays same)
+            ],
+            "1x2": [
+                [15, 63, 5, 7],    // bottom door
+                [31, 15, 7, 5],    // right door
+                [15, -1, 5, 7],    // top door
+                [-1, 15, 7, 5],    // left door
+            ],
+            "1x3": [
+                [15, 95, 5, 7],    // bottom door
+                [31, 15, 7, 5],    // right door
+                [15, -1, 5, 7],    // top door
+                [-1, 15, 7, 5],    // left door
+            ],
+            "1x4": [
+                [15, 127, 5, 7],   // bottom door
+                [31, 15, 7, 5],    // right door
+                [15, -1, 5, 7],    // top door
+                [-1, 15, 7, 5],    // left door
+            ],
+            "2x2": [
+                [15, 63, 5, 7],    // bottom door
+                [63, 15, 7, 5],    // right door
+                [15, -1, 5, 7],    // top door
+                [-1, 15, 7, 5],    // left door
+            ],
+            "L": [
+                [15, 63, 5, 7],    // bottom door
+                [63, 15, 7, 5],    // right door
+                [15, -1, 5, 7],    // top door
+                [-1, 15, 7, 5],    // left door
+            ]
+        }
+        return door_info[this.shape] || door_info["1x1"]
+    }
 }
