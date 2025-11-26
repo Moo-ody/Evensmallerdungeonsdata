@@ -1,4 +1,3 @@
-
 import sys
 import json
 
@@ -64,19 +63,20 @@ def convert_dungeon(line, rooms_json):
         else:
             final += str(num)
 
-
     return final + doors
 
 def main():
-
-    with open("converter/rooms.json") as f:
+    # rooms.json is in the same folder as this script
+    with open("rooms.json") as f:
         rooms_json = json.load(f)
 
-    if len(sys.argv) < 2:
-        print("Missing input file")
-        quit()
-    
-    filename = sys.argv[1]
+    # If a filename is passed as an argument, use it.
+    # Otherwise (double-click), default to Dungeons.txt
+    if len(sys.argv) >= 2:
+        filename = sys.argv[1]
+    else:
+        filename = "Dungeons.txt"
+        print("No input file provided, defaulting to Dungeons.txt")
 
     final = []
 
@@ -87,7 +87,6 @@ def main():
             print(f"{i+1}/{len(lines)} ({len(final)}) Dungeons")
 
             converted = convert_dungeon(line, rooms_json)
-            # print(converted)
 
             if converted is None:
                 continue
@@ -98,4 +97,10 @@ def main():
         f.write("\n".join(final))
 
     print("Done!")
-main()
+
+    # If run by double-click (no args), pause so the window doesn't instantly close
+    if len(sys.argv) == 1:
+        input("Press Enter to exit...")
+
+if __name__ == "__main__":
+    main()
