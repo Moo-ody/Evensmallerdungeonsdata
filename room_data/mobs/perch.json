@@ -1,0 +1,437 @@
+{
+  "roomName": "Perch",
+  "totalVisits": 1,
+  "spawns": [
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 14.5,
+      "relY": 11.0,
+      "relZ": 17.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "zombie",
+      "isStarred": true,
+      "fullName": "Crypt Lurker",
+      "relX": 16.5,
+      "relY": 11.0,
+      "relZ": 18.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bone",
+          "count": 1,
+          "name": "Bone",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"}},count:1,id:\"minecraft:bone\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "zombie",
+      "isStarred": true,
+      "fullName": "Zombie Soldier",
+      "relX": 15.5,
+      "relY": 11.0,
+      "relZ": 20.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:iron_sword",
+          "count": 1,
+          "name": "Zombie Soldier Cutlass",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CUTLASS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Zombie Soldier Cutlass\"}},count:1,id:\"minecraft:iron_sword\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Zombie Soldier Helmet",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Helmet\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Zombie Soldier Chestplate",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Chestplate\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Zombie Soldier Leggings",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Leggings\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Zombie Soldier Boots",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Boots\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 11.5,
+      "relY": 11.0,
+      "relZ": 13.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 9.5,
+      "relY": 11.0,
+      "relZ": 13.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "zombie",
+      "isStarred": true,
+      "fullName": "Zombie Soldier",
+      "relX": 9.5,
+      "relY": 11.0,
+      "relZ": 14.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:iron_sword",
+          "count": 1,
+          "name": "Zombie Soldier Cutlass",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CUTLASS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Zombie Soldier Cutlass\"}},count:1,id:\"minecraft:iron_sword\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Zombie Soldier Helmet",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Helmet\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Zombie Soldier Chestplate",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Chestplate\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Zombie Soldier Leggings",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Leggings\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Zombie Soldier Boots",
+          "color": 13664000,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Soldier Boots\"},\"minecraft:dyed_color\":13664000},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "player",
+      "isStarred": false,
+      "fullName": "Frozen Adventurer",
+      "relX": 13.5,
+      "relY": 5.0,
+      "relZ": 13.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stick",
+          "count": 1,
+          "name": "Ice Spray Wand",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ICE_SPRAY_WAND\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Ice Spray Wand\"},\"minecraft:enchantment_glint_override\":1b},count:1,id:\"minecraft:stick\"}"
+        },
+        "head": {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "name": "Frozen Blaze Helmet",
+          "skullTexture": "ewogICJ0aW1lc3RhbXAiIDogMTY2MTA4NTAzNTkyNywKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDMxMGI1NWVlZDk1OGZlZThmZmFhZjcxODQ2NzE2N2RlYjFhN2M5MDQ2ZDY3YjI1ODg3YjU5NjkyNTYzNmJiIgogICAgfQogIH0KfQ\u003d\u003d",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"FROZEN_BLAZE_HELMET\"},\"minecraft:custom_name\":{color:\"gold\",italic:0b,text:\"Frozen Blaze Helmet\"},\"minecraft:profile\":{id:[I;92578789,-919651745,-1668006436,221759109],properties:[{name:\"textures\",signature:\"KHvJIxo/NPtM0oNctgr+UVMr6UHjhBABr+eSrgr2Ne7hAqvokzCRlShl0pD1Ok71LjtMx/S2tuAJ6vHi5YeQ8YoOM80vi7Ka8nLryp7Rnss/NJfk+5oXVxidUvt9oNX7wyv7sBK+e0Qxu3VNbVeGGYfLARt5s9iv0QageFvTN1uwTDnJwlRP6qa7p7pPCpq5zErvijo1nr5KlMj01uneF2GFGa0igrcLpXBvodHg42Sp9ab7TR39llXokpvDOwtwVTtjaHlMB3017xckPiDk4V2NzNWSAX4KCgpzGBSHhHgvxoid39JzkwRXn9qGPrIDk001UJDS4LWVqfgIMiiJW8QYmW9YTzcFM6rkfXeERTlLBovJHzIt+l5+jhTONn0Ux3KHk7mj+5rgWG3QAWAMV3FGFBEk4h5z1rgErH185zaeHbsj8y9A8GQJpJU6AaElGve6/f+2NH4Yq0WCZo0eLLQttfDH6u3tMAs7q1KA9FJPSilcYTPxVIS+j0j1AjgFdzUgXyYA3Ejy3kylGYS6WHel66HcXAJlJRxmzDNGad8sZFQGuYWjDvpb3IFtBVFgKHOLdQgsmRpq43L3Om/q/tjyjNYcWJhDpuSZPGvS6Dan3WDoK5H8GWh5mWsCtbQsAnrdJhUErSB1/gyvnXUuV8UhgT1wa+Nl9qjjLCmp75A\u003d\",value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MTA4NTAzNTkyNywKICAicHJvZmlsZUlkIiA6ICJjMTNkYzkxZjg1YjA0ZWM4OGU2NDk5YzdjZDc4Zjk3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYXNzdGhlY3J5cHRpZCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MDMxMGI1NWVlZDk1OGZlZThmZmFhZjcxODQ2NzE2N2RlYjFhN2M5MDQ2ZDY3YjI1ODg3YjU5NjkyNTYzNmJiIgogICAgfQogIH0KfQ\u003d\u003d\"}]}},count:1,id:\"minecraft:player_head\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Frozen Blaze Chestplate",
+          "color": 10541807,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"FROZEN_BLAZE_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"gold\",italic:0b,text:\"Frozen Blaze Chestplate\"},\"minecraft:dyed_color\":10541807,\"minecraft:enchantment_glint_override\":1b},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Frozen Blaze Leggings",
+          "color": 10541807,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"FROZEN_BLAZE_LEGGINGS\"},\"minecraft:custom_name\":{color:\"gold\",italic:0b,text:\"Frozen Blaze Leggings\"},\"minecraft:dyed_color\":10541807,\"minecraft:enchantment_glint_override\":1b},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Frozen Blaze Boots",
+          "color": 10541807,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"FROZEN_BLAZE_BOOTS\"},\"minecraft:custom_name\":{color:\"gold\",italic:0b,text:\"Frozen Blaze Boots\"},\"minecraft:dyed_color\":10541807,\"minecraft:enchantment_glint_override\":1b},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      },
+      "skin": "ewogICJ0aW1lc3RhbXAiIDogMTU5NTQ2MTgyNzA1NCwKICAicHJvZmlsZUlkIiA6ICJkYTQ5OGFjNGU5Mzc0ZTVjYjYxMjdiMzgwODU1Nzk4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaXRyb2hvbGljXzIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RlZTUwMTgxZGJjMzM2ZDBkOTAzNWY2MjI0NDhjNDNkYWE3ZmRiNWQ3Y2FhYTkxZjY3YjNiYzY0ODZjMzIxMCIKICAgIH0KICB9Cn0\u003d"
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Sniper",
+      "relX": 25.5,
+      "relY": 14.0,
+      "relZ": 15.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "name": "Sniper Helmet",
+          "skullTexture": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE5NzA4NSwKICAicHJvZmlsZUlkIiA6ICI5ODY5ZmUyY2FjMjA0YmJmYjc1Y2Y1Mjk2ZTY0MDQ5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW5yaXF1ZTkzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxOGMwNzFmMDgwZGJhNTBhNjJhNjI2M2ZmNzI0ZWRjMTU3Y2U0ZmI0ODgzY2NlZmYyNDkxZDViYmRlODMwYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SNIPER_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Sniper Helmet\"},\"minecraft:profile\":{id:[I;39333946,-325634553,-1927407233,166981343],properties:[{name:\"textures\",signature:\"P1xXKP4k3wnzXUReGkHfVU3VrUjlo60DJ/54xrzoAzho1IBGMOWTlx2R92rDF4oKe8YtyhWHs3fKJYbvuFodKjr+VB4Zz/edj85H77AW6hcXHlBSTE2/ZOtIyRysFaSjKuu4v3UQ/uzOX38XNeab8L0xXpuNvKoRksF+8I83Dsxey59G4Q9duCWmD+mPt9f+RxfcMBj7F0RuP9ifFuKTR9LpgtpqT6xG2KsyHGY20w/biRl2MACJPVCvsdD7XIxmsDHiN8wjIIwLGMCa+mtkDW9KLgxNbr6e6HWwKYNo1RMmOYRxTG/TK1Kx34BpnH9D8nJPpk7AdTPgdonAfEL49eZ5JUwD2gzXCitew3M+oVuUnscAh8OvrgzNtcbnHIkKjC+XKMgQS4EJgr+m/1oD7LzzPjWLJfbxQA470SxHeLZlVdZLBD4LgEdhBePJHC4MgYGxs1PiNg9HDPhM7/ZJy8wUNGIhuCrYmN25jHv6KHQbRDDlIEGYhgE7AmqvjP4nLuVSrgkGHi+W3TPPWb52KvG67CYpU+ari+bTNwrwKqftKSxeKfBvDUbbwRnjVJR3g3ZZMNGJUcu/eN8tnxxxlmsjgIT4ezWM6ZLQtvlzb3FTkm27Ub0lMFkq57kaAnLMgJgBYpUAy6mBPTHlQ1nqZBzXVpnILF8pBEq3CUDJXSI\u003d\",value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA0MzE5NzA4NSwKICAicHJvZmlsZUlkIiA6ICI5ODY5ZmUyY2FjMjA0YmJmYjc1Y2Y1Mjk2ZTY0MDQ5MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW5yaXF1ZTkzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IxOGMwNzFmMDgwZGJhNTBhNjJhNjI2M2ZmNzI0ZWRjMTU3Y2U0ZmI0ODgzY2NlZmYyNDkxZDViYmRlODMwYzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},count:1,id:\"minecraft:player_head\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "zombie",
+      "isStarred": true,
+      "fullName": "Super Tank Zombie",
+      "relX": 9.5,
+      "relY": 11.0,
+      "relZ": 12.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "name": "Earthen Blade",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"}},count:1,id:\"minecraft:stone_sword\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Super Heavy Helmet",
+          "color": 15132390,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Super Heavy Chestplate",
+          "color": 0,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":0},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Super Heavy Leggings",
+          "color": 0,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":0},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Super Heavy Boots",
+          "color": 5263440,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":5263440},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "zombie",
+      "isStarred": true,
+      "fullName": "Super Tank Zombie",
+      "relX": 9.5,
+      "relY": 11.0,
+      "relZ": 12.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "name": "Earthen Blade",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"EARTH_SHARD\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Earthen Blade\"}},count:1,id:\"minecraft:stone_sword\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Super Heavy Helmet",
+          "color": 15132390,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Helmet\"},\"minecraft:dyed_color\":15132390},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Super Heavy Chestplate",
+          "color": 5923940,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Chestplate\"},\"minecraft:dyed_color\":5923940},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Super Heavy Leggings",
+          "color": 5923940,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Leggings\"},\"minecraft:dyed_color\":5923940},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Super Heavy Boots",
+          "color": 15132390,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SUPER_HEAVY_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Super Heavy Boots\"},\"minecraft:dyed_color\":15132390},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Zombie Commander",
+      "relX": 14.5,
+      "relY": 11.0,
+      "relZ": 22.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:fishing_rod",
+          "count": 1,
+          "name": "Zombie Commander Whip",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_WHIP\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Whip\"}},count:1,id:\"minecraft:fishing_rod\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Zombie Commander Helmet",
+          "color": 13963824,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Helmet\"},\"minecraft:dyed_color\":13963824},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Zombie Commander Chestplate",
+          "color": 13963824,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Chestplate\"},\"minecraft:dyed_color\":13963824},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Zombie Commander Leggings",
+          "color": 13963824,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Leggings\"},\"minecraft:dyed_color\":13963824},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Zombie Commander Boots",
+          "color": 13963824,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"ZOMBIE_COMMANDER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Zombie Commander Boots\"},\"minecraft:dyed_color\":13963824},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1ODgwMTg1NTAzMTksInByb2ZpbGVJZCI6IjcyY2IwNjIxZTUxMDQwN2M5ZGUwMDU5NGY2MDE1MjJkIiwicHJvZmlsZU5hbWUiOiJNb3M5OTAiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UzOTc2ZWY0ZjlkNjhjZmMwZjI0ZjZiMzEzNzEzYTVmMmFiYmNmZmYzMmEyN2M1MTRjMTM5MmRmZTYxOTE5MWUifX19"
+    },
+    {
+      "runIndex": 1,
+      "mobType": "zombie",
+      "isStarred": true,
+      "fullName": "Crypt Lurker",
+      "relX": 13.5,
+      "relY": 11.0,
+      "relZ": 23.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bone",
+          "count": 1,
+          "name": "Bone",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BONE\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bone\"}},count:1,id:\"minecraft:bone\"}"
+        }
+      }
+    }
+  ]
+}

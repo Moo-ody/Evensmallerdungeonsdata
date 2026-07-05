@@ -1,0 +1,7 @@
+{
+  "name": "SoundLogger",
+  "entry": "index.js",
+  "creator": "Cursor",
+  "description": "Logs all played sounds to chat.",
+  "requires": []
+}

@@ -1,0 +1,5766 @@
+{
+  "roomName": "Lava Ravine",
+  "totalVisits": 13,
+  "spawns": [
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 16.5,
+      "relY": 53.0,
+      "relZ": 56.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 15.5,
+      "relY": 53.0,
+      "relZ": 58.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 1534208,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":1534208},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 1534208,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":1534208},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 1534208,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":1534208},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.5,
+      "relY": 52.0,
+      "relZ": 37.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.5,
+      "relY": 52.0,
+      "relZ": 38.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 16.5,
+      "relY": 52.0,
+      "relZ": 40.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.5,
+      "relY": 52.0,
+      "relZ": 38.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 17.5,
+      "relY": 53.0,
+      "relZ": 55.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 19.5,
+      "relY": 50.0,
+      "relZ": 29.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 19.5,
+      "relY": 50.0,
+      "relZ": 31.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.5,
+      "relY": 50.0,
+      "relZ": 27.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 27.5,
+      "relY": 49.0,
+      "relZ": 42.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 22.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 32.5,
+      "relY": 51.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 32.5,
+      "relY": 51.0,
+      "relZ": 49.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 30.5,
+      "relY": 49.0,
+      "relZ": 41.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 30.5,
+      "relY": 49.0,
+      "relZ": 43.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 53.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 20.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 23.5,
+      "relY": 53.0,
+      "relZ": 11.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.5,
+      "relY": 53.0,
+      "relZ": 9.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 53.5,
+      "relY": 56.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 53.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 19.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.5,
+      "relY": 53.0,
+      "relZ": 8.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 49.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.5,
+      "relY": 53.0,
+      "relZ": 12.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 23.5,
+      "relY": 53.0,
+      "relZ": 11.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.5,
+      "relY": 53.0,
+      "relZ": 12.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 25.56,
+      "relY": 50.0,
+      "relZ": 21.34,
+      "yaw": 172.97,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.25,
+      "relY": 50.0,
+      "relZ": 34.28,
+      "yaw": 160.31,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.09,
+      "relY": 52.0,
+      "relZ": 39.28,
+      "yaw": 21.09,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 29.72,
+      "relY": 50.91,
+      "relZ": 48.91,
+      "yaw": 142.03,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 17.03,
+      "relY": 52.91,
+      "relZ": 13.25,
+      "yaw": -116.72,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 30.13,
+      "relY": 50.0,
+      "relZ": 46.59,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:diamond_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:diamond_sword\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 2,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 28.72,
+      "relY": 49.0,
+      "relZ": 42.81,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 40.34,
+      "relY": 52.5,
+      "relZ": 48.66,
+      "yaw": 59.06,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.53,
+      "relY": 51.91,
+      "relZ": 14.0,
+      "yaw": 29.53,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 19.19,
+      "relY": 53.0,
+      "relZ": 56.0,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 20.56,
+      "relY": 49.5,
+      "relZ": 44.63,
+      "yaw": 95.63,
+      "pitch": -5.62,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 1534208,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":1534208},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 1534208,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":1534208},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 1534208,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":1534208},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 54.34,
+      "relY": 53.0,
+      "relZ": 50.34,
+      "yaw": 135.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.84,
+      "relY": 52.53,
+      "relZ": 15.41,
+      "yaw": -21.09,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.38,
+      "relY": 53.0,
+      "relZ": 8.59,
+      "yaw": -135.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 55.47,
+      "relY": 53.0,
+      "relZ": 49.28,
+      "yaw": 85.78,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 55.47,
+      "relY": 53.0,
+      "relZ": 49.84,
+      "yaw": -178.59,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 55.47,
+      "relY": 53.0,
+      "relZ": 49.84,
+      "yaw": -178.59,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 40.34,
+      "relY": 52.5,
+      "relZ": 48.66,
+      "yaw": 59.06,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 55.47,
+      "relY": 53.0,
+      "relZ": 49.28,
+      "yaw": 85.78,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 54.34,
+      "relY": 53.0,
+      "relZ": 50.34,
+      "yaw": 135.0,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 30.13,
+      "relY": 50.0,
+      "relZ": 46.59,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:diamond_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:diamond_sword\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 21.22,
+      "relY": 50.0,
+      "relZ": 28.03,
+      "yaw": 50.63,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 29.72,
+      "relY": 50.91,
+      "relZ": 48.91,
+      "yaw": 142.03,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 28.72,
+      "relY": 49.0,
+      "relZ": 42.81,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:diamond_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:diamond_sword\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 17.44,
+      "yaw": 18.28,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.09,
+      "relY": 52.0,
+      "relZ": 39.28,
+      "yaw": 21.09,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 19.19,
+      "relY": 53.0,
+      "relZ": 56.0,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 23.69,
+      "relY": 49.0,
+      "relZ": 24.47,
+      "yaw": 9.84,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 23.0,
+      "relY": 53.0,
+      "relZ": 20.41,
+      "yaw": -81.56,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 19.28,
+      "relY": 51.0,
+      "relZ": 33.63,
+      "yaw": -106.87,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 25.53,
+      "relY": 51.0,
+      "relZ": 20.97,
+      "yaw": 4.22,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 18.28,
+      "relY": 53.0,
+      "relZ": 14.84,
+      "yaw": -1.41,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.34,
+      "relY": 53.0,
+      "relZ": 9.53,
+      "yaw": 123.75,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 3,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.38,
+      "relY": 53.0,
+      "relZ": 8.59,
+      "yaw": -135.0,
+      "pitch": 0.0,
+      "spawnChance": 1.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 54.34,
+      "relY": 53.0,
+      "relZ": 50.34,
+      "yaw": 135.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 21.22,
+      "relY": 50.0,
+      "relZ": 28.03,
+      "yaw": 50.63,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 18.28,
+      "relY": 53.0,
+      "relZ": 14.84,
+      "yaw": -1.41,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 17.44,
+      "yaw": 18.28,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 25.31,
+      "relY": 53.0,
+      "relZ": 12.69,
+      "yaw": 122.34,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.34,
+      "relY": 53.0,
+      "relZ": 9.53,
+      "yaw": 123.75,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 19.19,
+      "relY": 53.0,
+      "relZ": 56.0,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 23.69,
+      "relY": 49.0,
+      "relZ": 24.47,
+      "yaw": 9.84,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 23.0,
+      "relY": 53.0,
+      "relZ": 20.41,
+      "yaw": -81.56,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.38,
+      "relY": 53.0,
+      "relZ": 8.59,
+      "yaw": -135.0,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 4,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 24.88,
+      "relY": 53.0,
+      "relZ": 14.97,
+      "yaw": 171.56,
+      "pitch": 0.0,
+      "spawnChance": 1.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.66,
+      "relY": 52.0,
+      "relZ": 34.63,
+      "yaw": -143.44,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 15.5,
+      "relY": 53.0,
+      "relZ": 55.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 15.5,
+      "relY": 53.0,
+      "relZ": 56.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.16,
+      "relY": 52.0,
+      "relZ": 39.5,
+      "yaw": 122.34,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.28,
+      "relY": 52.0,
+      "relZ": 37.47,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 17.5,
+      "relY": 53.0,
+      "relZ": 55.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 16.5,
+      "relY": 52.0,
+      "relZ": 38.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 19.5,
+      "relY": 50.0,
+      "relZ": 28.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 47.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 53.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 30.5,
+      "relY": 49.0,
+      "relZ": 42.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.63,
+      "relY": 53.0,
+      "relZ": 12.16,
+      "yaw": 104.06,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.5,
+      "relY": 53.0,
+      "relZ": 8.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 32.5,
+      "relY": 51.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.5,
+      "relY": 56.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.5,
+      "relY": 56.0,
+      "relZ": 47.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.5,
+      "relY": 53.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.5,
+      "relY": 53.0,
+      "relZ": 19.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 33.5,
+      "relY": 51.0,
+      "relZ": 47.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.5,
+      "relY": 53.0,
+      "relZ": 7.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.5,
+      "relY": 53.0,
+      "relZ": 19.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 19.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.5,
+      "relY": 56.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.25,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 5,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 30.5,
+      "relY": 49.0,
+      "relZ": 40.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 6891008,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":6891008},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 6891008,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":6891008},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 6891008,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":6891008},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 44.47,
+      "relY": 52.0,
+      "relZ": 46.69,
+      "yaw": -133.59,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 53.47,
+      "relY": 53.78,
+      "relZ": 45.66,
+      "yaw": 90.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 53.63,
+      "relY": 56.0,
+      "relZ": 46.84,
+      "yaw": -68.91,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 50.38,
+      "relY": 52.0,
+      "relZ": 44.41,
+      "yaw": 154.69,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 33.78,
+      "relY": 50.0,
+      "relZ": 42.91,
+      "yaw": -126.56,
+      "pitch": -2.81,
+      "spawnChance": 0.4,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 6891008,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":6891008},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 6891008,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":6891008},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 6891008,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":6891008},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 33.06,
+      "relY": 50.0,
+      "relZ": 44.44,
+      "yaw": -78.75,
+      "pitch": -4.22,
+      "spawnChance": 0.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 27.75,
+      "relY": 48.0,
+      "relZ": 37.44,
+      "yaw": -23.91,
+      "pitch": -5.62,
+      "spawnChance": 0.4,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 44.63,
+      "relY": 52.0,
+      "relZ": 47.13,
+      "yaw": -163.12,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 50.63,
+      "relY": 55.0,
+      "relZ": 47.75,
+      "yaw": 87.19,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 24.09,
+      "relY": 51.0,
+      "relZ": 45.69,
+      "yaw": -16.87,
+      "pitch": -1.41,
+      "spawnChance": 0.6,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 24.69,
+      "relY": 50.0,
+      "relZ": 28.66,
+      "yaw": 160.31,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.5,
+      "relY": 53.0,
+      "relZ": 7.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.34,
+      "relY": 53.0,
+      "relZ": 10.47,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.5,
+      "relY": 53.0,
+      "relZ": 8.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 31.75,
+      "relY": 50.0,
+      "relZ": 46.72,
+      "yaw": 133.59,
+      "pitch": 0.0,
+      "spawnChance": 0.4,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.22,
+      "relY": 53.0,
+      "relZ": 10.22,
+      "yaw": -122.34,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.28,
+      "relY": 53.0,
+      "relZ": 44.78,
+      "yaw": -47.81,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 16.5,
+      "relY": 52.0,
+      "relZ": 38.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.28,
+      "relY": 53.0,
+      "relZ": 19.44,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 17.44,
+      "relY": 52.0,
+      "relZ": 38.81,
+      "yaw": 87.19,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.59,
+      "relY": 53.0,
+      "relZ": 19.22,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 6,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 17.5,
+      "relY": 53.0,
+      "relZ": 55.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.2,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.5,
+      "relY": 53.0,
+      "relZ": 11.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 15.5,
+      "relY": 53.0,
+      "relZ": 55.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.5,
+      "relY": 53.0,
+      "relZ": 19.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 16.5,
+      "relY": 53.0,
+      "relZ": 55.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 30.5,
+      "relY": 51.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 18.5,
+      "relY": 50.0,
+      "relZ": 29.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.6667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 20.5,
+      "relY": 50.0,
+      "relZ": 27.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.3333,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 18.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.5,
+      "relY": 53.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 26.5,
+      "relY": 49.0,
+      "relZ": 41.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 46.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 52.0,
+      "relZ": 37.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.5,
+      "relY": 52.0,
+      "relZ": 36.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.5,
+      "relY": 52.0,
+      "relZ": 39.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 18.5,
+      "relY": 50.0,
+      "relZ": 29.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.6667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.5,
+      "relY": 53.0,
+      "relZ": 19.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 33.5,
+      "relY": 51.0,
+      "relZ": 46.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 19.5,
+      "relY": 53.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 50.5,
+      "relY": 56.0,
+      "relZ": 49.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.5,
+      "relY": 53.0,
+      "relZ": 8.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 52.0,
+      "relZ": 37.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1667,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 7,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 17.5,
+      "relY": 53.0,
+      "relZ": 56.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 16.34,
+      "relY": 53.0,
+      "relZ": 56.22,
+      "yaw": -174.37,
+      "pitch": 0.0,
+      "spawnChance": 0.5714,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.66,
+      "relY": 53.0,
+      "relZ": 60.66,
+      "yaw": -174.37,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 17.47,
+      "relY": 52.0,
+      "relZ": 51.88,
+      "yaw": 174.38,
+      "pitch": 0.0,
+      "spawnChance": 0.4286,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 30.44,
+      "relY": 50.0,
+      "relZ": 46.53,
+      "yaw": -88.59,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 30.5,
+      "relY": 51.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 11.41,
+      "relY": 53.0,
+      "relZ": 41.91,
+      "yaw": 178.59,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 10.56,
+      "relY": 52.0,
+      "relZ": 40.34,
+      "yaw": -165.94,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 18.13,
+      "relY": 51.0,
+      "relZ": 35.34,
+      "yaw": -171.56,
+      "pitch": -1.41,
+      "spawnChance": 0.7143,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.97,
+      "relY": 53.0,
+      "relZ": 17.81,
+      "yaw": 25.31,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.5,
+      "relY": 53.0,
+      "relZ": 11.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 19.06,
+      "relY": 50.0,
+      "relZ": 29.66,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.7143,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 20.5,
+      "relY": 50.0,
+      "relZ": 27.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5714,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.0,
+      "relY": 53.0,
+      "relZ": 15.25,
+      "yaw": -170.16,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.63,
+      "relY": 53.0,
+      "relZ": 10.0,
+      "yaw": -90.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 49.56,
+      "relY": 51.5,
+      "relZ": 43.38,
+      "yaw": 42.19,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 44.38,
+      "relY": 52.0,
+      "relZ": 47.69,
+      "yaw": 1.41,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.81,
+      "relY": 53.0,
+      "relZ": 17.5,
+      "yaw": -109.69,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 50.72,
+      "relY": 56.0,
+      "relZ": 50.13,
+      "yaw": -7.03,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 19.59,
+      "relY": 53.0,
+      "relZ": 10.59,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 45.41,
+      "relY": 52.0,
+      "relZ": 49.59,
+      "yaw": -132.19,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 49.66,
+      "relY": 54.0,
+      "relZ": 49.38,
+      "yaw": 45.0,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 17.69,
+      "relY": 53.38,
+      "relZ": 11.53,
+      "yaw": 88.59,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 8,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 44.38,
+      "relY": 52.0,
+      "relZ": 48.94,
+      "yaw": 9.84,
+      "pitch": 0.0,
+      "spawnChance": 1.1429,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 49.56,
+      "relY": 51.5,
+      "relZ": 43.38,
+      "yaw": 42.19,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 49.66,
+      "relY": 54.0,
+      "relZ": 49.38,
+      "yaw": 45.0,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 45.41,
+      "relY": 52.0,
+      "relZ": 49.59,
+      "yaw": -132.19,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 44.38,
+      "relY": 52.0,
+      "relZ": 48.94,
+      "yaw": 9.84,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 44.38,
+      "relY": 52.0,
+      "relZ": 47.69,
+      "yaw": 1.41,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.97,
+      "relY": 53.0,
+      "relZ": 17.81,
+      "yaw": 25.31,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.5,
+      "relY": 53.0,
+      "relZ": 11.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 33.75,
+      "relY": 50.5,
+      "relZ": 52.91,
+      "yaw": 109.69,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 19.59,
+      "relY": 53.0,
+      "relZ": 10.59,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 18.03,
+      "relY": 53.0,
+      "relZ": 11.5,
+      "yaw": 92.81,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 18.41,
+      "relY": 53.0,
+      "relZ": 53.53,
+      "yaw": 7.03,
+      "pitch": 0.0,
+      "spawnChance": 0.625,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 16.81,
+      "relY": 52.0,
+      "relZ": 51.22,
+      "yaw": 16.88,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 19.06,
+      "relY": 50.0,
+      "relZ": 29.66,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.75,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 20.5,
+      "relY": 50.0,
+      "relZ": 27.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 19.84,
+      "relY": 53.0,
+      "relZ": 10.44,
+      "yaw": -102.66,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 30.44,
+      "relY": 50.0,
+      "relZ": 46.53,
+      "yaw": -88.59,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.0,
+      "relY": 53.0,
+      "relZ": 15.25,
+      "yaw": -170.16,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 11.41,
+      "relY": 53.0,
+      "relZ": 41.91,
+      "yaw": 178.59,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 10.56,
+      "relY": 52.0,
+      "relZ": 40.34,
+      "yaw": -165.94,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 9,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 7.66,
+      "relY": 52.0,
+      "relZ": 20.72,
+      "yaw": -42.19,
+      "pitch": 0.0,
+      "spawnChance": 1.125,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 19.5,
+      "relY": 53.0,
+      "relZ": 9.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.9,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.5,
+      "relY": 53.0,
+      "relZ": 8.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 23.5,
+      "relY": 53.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.5,
+      "relY": 53.0,
+      "relZ": 9.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.5,
+      "relY": 53.0,
+      "relZ": 20.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 22.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 22.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.5,
+      "relY": 50.0,
+      "relZ": 27.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.5,
+      "relY": 52.0,
+      "relZ": 37.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.5,
+      "relY": 52.0,
+      "relZ": 40.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 17.5,
+      "relY": 53.0,
+      "relZ": 56.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 31.5,
+      "relY": 49.0,
+      "relZ": 43.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 22.5,
+      "relY": 50.0,
+      "relZ": 31.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.4,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 53.5,
+      "relY": 56.0,
+      "relZ": 49.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.5,
+      "relY": 56.0,
+      "relZ": 49.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 15.5,
+      "relY": 52.0,
+      "relZ": 39.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 18.5,
+      "relY": 53.0,
+      "relZ": 55.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.6,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 49.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.5,
+      "relY": 56.0,
+      "relZ": 49.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.5,
+      "relY": 52.0,
+      "relZ": 39.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 19.5,
+      "relY": 50.0,
+      "relZ": 31.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.6,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 30.5,
+      "relY": 49.0,
+      "relZ": 40.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 30.5,
+      "relY": 51.0,
+      "relZ": 50.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 34.5,
+      "relY": 51.0,
+      "relZ": 48.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 27.5,
+      "relY": 49.0,
+      "relZ": 41.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.7,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 11,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 15.88,
+      "relY": 53.0,
+      "relZ": 0.06,
+      "yaw": 1.41,
+      "pitch": 0.0,
+      "spawnChance": 0.4,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 50.75,
+      "relY": 56.0,
+      "relZ": 47.63,
+      "yaw": -46.41,
+      "pitch": 0.0,
+      "spawnChance": 0.9091,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 51.38,
+      "relY": 56.0,
+      "relZ": 46.06,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 52.16,
+      "relY": 53.0,
+      "relZ": 44.16,
+      "yaw": 118.13,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 33.5,
+      "relY": 51.0,
+      "relZ": 46.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 28.88,
+      "relY": 49.0,
+      "relZ": 42.34,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.4545,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 29.69,
+      "relY": 49.0,
+      "relZ": 41.06,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5455,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 48.22,
+      "relY": 52.0,
+      "relZ": 49.69,
+      "yaw": -120.94,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 50.75,
+      "relY": 56.0,
+      "relZ": 48.06,
+      "yaw": -171.56,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 26.53,
+      "relY": 48.0,
+      "relZ": 39.13,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5455,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 23.66,
+      "yaw": 165.94,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 15.72,
+      "relY": 51.0,
+      "relZ": 29.97,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5455,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 13.38,
+      "relY": 51.0,
+      "relZ": 33.69,
+      "yaw": -73.12,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 13.5,
+      "relY": 53.0,
+      "relZ": 51.88,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5455,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 9.47,
+      "relY": 54.5,
+      "relZ": 56.16,
+      "yaw": -168.75,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 18.5,
+      "relY": 53.0,
+      "relZ": 7.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 12.38,
+      "relY": 51.0,
+      "relZ": 32.38,
+      "yaw": -42.19,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 21.47,
+      "relY": 53.0,
+      "relZ": 10.41,
+      "yaw": 163.13,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 10.44,
+      "relY": 52.0,
+      "relZ": 35.75,
+      "yaw": -178.59,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 17.38,
+      "relY": 50.0,
+      "relZ": 30.72,
+      "yaw": -78.75,
+      "pitch": 0.0,
+      "spawnChance": 0.6364,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 18.09,
+      "relY": 52.0,
+      "relZ": 52.44,
+      "yaw": 101.25,
+      "pitch": 0.0,
+      "spawnChance": 0.6364,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 11.38,
+      "relY": 52.0,
+      "relZ": 38.56,
+      "yaw": -85.78,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 14.25,
+      "relY": 53.0,
+      "relZ": 21.25,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 22.38,
+      "relY": 49.0,
+      "relZ": 25.06,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 0.5455,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 11.22,
+      "relY": 53.0,
+      "relZ": 20.84,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 22.34,
+      "relY": 53.0,
+      "relZ": 8.75,
+      "yaw": 35.16,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 12,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Withermancer",
+      "relX": 20.78,
+      "relY": 53.0,
+      "relZ": 11.34,
+      "yaw": -125.16,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:stone_sword",
+          "count": 1,
+          "nbt": "{count:1,id:\"minecraft:stone_sword\"}"
+        }
+      }
+    }
+  ]
+}

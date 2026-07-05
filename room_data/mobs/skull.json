@@ -1,0 +1,847 @@
+{
+  "roomName": "Skull",
+  "totalVisits": 2,
+  "spawns": [
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 24.5,
+      "relY": 14.0,
+      "relZ": 18.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 29.5,
+      "relY": 23.0,
+      "relZ": 17.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 30.5,
+      "relY": 22.0,
+      "relZ": 9.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 29.5,
+      "relY": 19.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 30.5,
+      "relY": 19.0,
+      "relZ": 15.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 26.5,
+      "relY": 16.0,
+      "relZ": 12.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 34.5,
+      "relY": 19.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 30.5,
+      "relY": 12.0,
+      "relZ": 18.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 33.5,
+      "relY": 23.0,
+      "relZ": 9.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Super Archer",
+      "relX": 33.5,
+      "relY": 12.0,
+      "relZ": 12.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Bouncy Helmet",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_HELMET\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Helmet\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Bouncy Chestplate",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Chestplate\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Bouncy Leggings",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_LEGGINGS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Leggings\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Bouncy Boots",
+          "color": 11403055,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOUNCY_BOOTS\"},\"minecraft:custom_name\":{color:\"blue\",italic:0b,text:\"Bouncy Boots\"},\"minecraft:dyed_color\":11403055},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 1,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 37.5,
+      "relY": 15.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 30.5,
+      "relY": 22.0,
+      "relZ": 9.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 33.5,
+      "relY": 23.0,
+      "relZ": 9.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 37.5,
+      "relY": 15.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 34.5,
+      "relY": 18.0,
+      "relZ": 18.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "player",
+      "isStarred": true,
+      "fullName": "Crypt Souleater",
+      "relX": 29.5,
+      "relY": 19.0,
+      "relZ": 10.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        }
+      },
+      "skin": "eyJ0aW1lc3RhbXAiOjE1NjI0Mjc0MTA5MTQsInByb2ZpbGVJZCI6ImIwZDczMmZlMDBmNzQwN2U5ZTdmNzQ2MzAxY2Q5OGNhIiwicHJvZmlsZU5hbWUiOiJPUHBscyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjZmMzQ5MjcwYTNiODUxODk2Y2RhZDg0MmY1ZWVjNmUxNDBiZDkxMTliNzVjMDc0OTU1YzNiZTc4NjVlMjdjNyJ9fX0\u003d"
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 30.5,
+      "relY": 19.0,
+      "relZ": 15.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 1.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 26.5,
+      "relY": 16.0,
+      "relZ": 12.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Soldier",
+      "relX": 30.5,
+      "relY": 12.0,
+      "relZ": 18.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Soldier Helmet",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Helmet\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Soldier Chestplate",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Chestplate\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Soldier Leggings",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Leggings\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Soldier Boots",
+          "color": 16759819,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_SOLDIER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Soldier Boots\"},\"minecraft:dyed_color\":16759819},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    },
+    {
+      "runIndex": 2,
+      "mobType": "skeleton",
+      "isStarred": true,
+      "fullName": "Skeleton Master",
+      "relX": 24.5,
+      "relY": 14.0,
+      "relZ": 18.5,
+      "yaw": 0.0,
+      "pitch": 0.0,
+      "spawnChance": 2.0,
+      "equipment": {
+        "mainhand": {
+          "id": "minecraft:bow",
+          "count": 1,
+          "name": "Bow",
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"BOW\"},\"minecraft:custom_name\":{color:\"white\",italic:0b,text:\"Bow\"}},count:1,id:\"minecraft:bow\"}"
+        },
+        "head": {
+          "id": "minecraft:leather_helmet",
+          "count": 1,
+          "name": "Skeleton Master Helmet",
+          "color": 16739083,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_HELMET\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Helmet\"},\"minecraft:dyed_color\":16739083},count:1,id:\"minecraft:leather_helmet\"}"
+        },
+        "chest": {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "name": "Skeleton Master Chestplate",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_CHESTPLATE\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Chestplate\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_chestplate\"}"
+        },
+        "legs": {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "name": "Skeleton Master Leggings",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_LEGGINGS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Leggings\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_leggings\"}"
+        },
+        "feet": {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "name": "Skeleton Master Boots",
+          "color": 6881280,
+          "nbt": "{components:{\"minecraft:custom_data\":{id:\"SKELETON_MASTER_BOOTS\"},\"minecraft:custom_name\":{color:\"dark_purple\",italic:0b,text:\"Skeleton Master Boots\"},\"minecraft:dyed_color\":6881280},count:1,id:\"minecraft:leather_boots\"}"
+        }
+      }
+    }
+  ]
+}
