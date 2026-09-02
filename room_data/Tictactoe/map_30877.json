@@ -1,0 +1,25 @@
+{
+  "mapId": 30877,
+  "capturedAt": "2026-09-02T06:39:43.102Z",
+  "source": "start",
+  "frames": [
+    {
+      "entityId": 633477,
+      "blockPos": {
+        "x": -24,
+        "y": 71,
+        "z": -178
+      },
+      "facing": "north"
+    },
+    {
+      "entityId": 633882,
+      "blockPos": {
+        "x": -24,
+        "y": 72,
+        "z": -178
+      },
+      "facing": "north"
+    }
+  ]
+}
